@@ -1,5 +1,4 @@
 # Welcome to the Church of Bob
-## Diocese of Guildford
 
 The Dioocese of Guildford is a diocese of the Church of Bob.
 
