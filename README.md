@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="/path834.png">
-
 # Welcome to the Church of Bob
 
 The Dioocese of Guildford is a diocese of the Church of Bob.
